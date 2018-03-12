@@ -12,7 +12,7 @@
 	url = ../Layer
 [submodule "PatchComparison"]
 	path = PatchComparison
-	url = ../PatchComparison.git
+	url = ../../ashgillman/PatchComparison.git
 [submodule "CMakeHelpers"]
 	path = CMakeHelpers
 	url = ../CMakeHelpers.git
